@@ -9103,10 +9103,10 @@ medusa-payment-manual@^1.0.24:
   resolved "https://registry.npmjs.org/medusa-payment-manual/-/medusa-payment-manual-1.0.24.tgz"
   integrity sha512-VcQJuuE86J+ePPmZPVp0961Gkjfvu9v/xII9jM5uOH2CsuMsLI3G8QOjDBxn+kiy+hiQFXD1ZoWDDuuFY/Wt8A==
 
-medusa-payment-stripe@^6.0.5:
-  version "6.0.5"
-  resolved "https://registry.npmjs.org/medusa-payment-stripe/-/medusa-payment-stripe-6.0.5.tgz"
-  integrity sha512-9lzvrgOaGJJ12cexaEwBgmz3/+c21ADolmpg89XvCjLWYEWfMl7GPvb7bPI6z+t7ZZM094eg+976nJ8Ofqqi0g==
+medusa-payment-stripe@^6.0.6:
+  version "6.0.6"
+  resolved "https://registry.npmjs.org/medusa-payment-stripe/-/medusa-payment-stripe-6.0.6.tgz"
+  integrity sha512-/dg/IvQt4D5xMQWZJpMJlzY+cw3a8KY9+fBwjPFb6jp3f39SDl0VP32SfwJ3gFyek7ygOcQGorlNsVFwvxImUQ==
   dependencies:
     body-parser "^1.19.0"
     express "^4.17.1"
