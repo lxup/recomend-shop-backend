@@ -200,4 +200,7 @@ module.exports = {
   projectConfig,
   plugins,
   modules,
+  featureFlags: {
+    tax_inclusive_pricing: true,
+  },
 };
