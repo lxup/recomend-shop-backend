@@ -89,7 +89,6 @@ const plugins = [
             description: product.description,
             thumbnail: product.thumbnail,
             handle: product.handle,
-            price: product.variants[0].price.amount,
           }),
         },
       },
